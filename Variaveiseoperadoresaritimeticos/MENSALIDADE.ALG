@@ -1,4 +1,4 @@
-Algoritmo "Salário"
+Algoritmo "mensalidade"
 // Disciplina   : PA
 // Professor   : Edilma
 // Descrição   : 1 C/ turma B
